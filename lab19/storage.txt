@@ -1,0 +1,3 @@
+banana,kg,6
+door,kg,3
+water,liters,5
